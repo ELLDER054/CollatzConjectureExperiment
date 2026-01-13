@@ -8,7 +8,7 @@
 # meaning that, starting from 10, it took 6 cycles to bring it back to 1
 
 # When I first ran this program, I saw lots of stopping times that were 13 away from nearby stopping times and I wondered what was significant about the number 13
-# I'm sure somebody has researched this and this is likely what is seen as the "stairstep" pattern in the graph from stopping_times.py
+# I'm sure somebody has researched this and this is likely what is seen as the "stairstep" pattern in the graph from stop_times.py
 
 # prints information for all numbers 2 to N
 N = 4000
